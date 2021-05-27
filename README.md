@@ -19,7 +19,7 @@ We propose an Asymmetrical Bi-RNNs architecture to replace regular LSTMs or Bi-L
 
 TrajNet++ is a large scale interaction-centric trajectory forecasting benchmark comprising explicit agent-agent scenarios. Our code is built on top of the numerous baselines that are [available with Trajnet++](https://github.com/vita-epfl/trajnetplusplusbaselines).
 
-If you want to replicate our results, follow the ![guidelines from the Trajnet++ benchmark hosts](https://thedebugger811.github.io/posts/2020/03/intro_trajnetpp/) to ensure you are good to go on the Trajnet++ dataset, thereafter fork our repository with respect to its architecture (/rnns/) and follow the guidelines for training our models.
+If you want to replicate our results, follow the [guidelines from the Trajnet++ benchmark hosts](https://thedebugger811.github.io/posts/2020/03/intro_trajnetpp/) to ensure you are good to go on the Trajnet++ dataset, thereafter fork our repository with respect to its architecture (/rnns/) and follow the guidelines for training our models.
 
 
 
