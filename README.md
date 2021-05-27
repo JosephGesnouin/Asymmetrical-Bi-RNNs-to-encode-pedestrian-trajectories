@@ -8,7 +8,7 @@ rely on proposing a new sequence encoder that could be easily applicable on all 
 
 We propose an Asymmetrical Bi-RNNs architecture to replace regular LSTMs as a motion-encodoing baseline for pedestrian trajectories forecasting:
 
-
+![Asymmetrical Bi-RNNs architecture](https://github.com/JosephGesnouin/Asymmetrical-Bi-RNNs-to-encode-pedestrian-trajectories/blob/main/u-rnn.png)
 
 
 
