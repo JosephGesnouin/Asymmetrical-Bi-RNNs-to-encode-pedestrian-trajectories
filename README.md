@@ -29,7 +29,7 @@ the possible names are those of the files in the `trajnetbaselines/rnns/` folder
 
 -- `ade_fde_plots` : to plot trajectories with ade and fde + plot the distribution of ade and fde + plot ade and fde as a function of distances and final angles
 -- `average` : to average several existing predictions
--- `zip_for_submit`: everything is in the name
+
 
 Beware of the "hard" paths I left in the first two scripts.
 
