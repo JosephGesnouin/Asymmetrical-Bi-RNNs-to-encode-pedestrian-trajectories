@@ -22,7 +22,7 @@ TrajNet++ is a large scale interaction-centric trajectory forecasting benchmark 
 (the possible names are those of the files in the `trajnetbaselines/rnns/` folder, typically `u_lstm)
 
 
-## Miscellaneous (not necessarily useful but I leave it just in case)
+## Miscellaneous (not necessarily useful but just in case)
 
 -- `ade_fde_plots` : to plot trajectories with ade and fde + plot the distribution of ade and fde + plot ade and fde as a function of distances and final angles
 -- `average` : to average several existing predictions
