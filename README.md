@@ -3,7 +3,10 @@ PyTorch implementation of Asymmetrical Bi-RNNs to encode pedestrian trajectories
 
 
 ## Idea developped in the paper:
+Contrary to many previous studies which proposed new interactions modules but did not deepen the importance of a robust sequence encoder, our work solely
+rely on proposing a new sequence encoder that could be easily applicable on all models that use the encoder-decoder pipeline for pedestrian trajectory forecasting while taking advantage of the research on interactions.
 
+We propose an Asymmetrical Bi-RNNs architecture to replace regular LSTMs as a motion-encodoing baseline for pedestrian trajectories forecasting:
 
 
 
