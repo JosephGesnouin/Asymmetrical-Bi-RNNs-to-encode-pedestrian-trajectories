@@ -30,6 +30,8 @@ If you want to replicate our results, follow the [guidelines from the Trajnet++ 
 The possible names are those of the files in the `trajnetbaselines/rnns/` folder, typically `u_lstm`).
 All the architectures listed in the paper are available: Bi-RNNs, RNNs, U-RNNs (Asymmetrical ours), Reversed U-RNNs.
 
+We also present a version of the Social NCE contrastive loss that is **NOT** the official implementation of the paper
+
 
 ## Miscellaneous (not necessarily useful but just in case)
 
