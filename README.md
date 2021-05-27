@@ -2,6 +2,16 @@
 PyTorch implementation of Asymmetrical Bi-RNNs to encode pedestrian trajectories on trajnet++ dataset
 
 
+## Idea developped in the paper:
+
+
+
+
+
+
+## Data set
+
+
 TrajNet++ is a large scale interaction-centric trajectory forecasting benchmark comprising explicit agent-agent scenarios. Our code is built on top of the numerous baselines that are [available with Trajnet++](https://github.com/vita-epfl/trajnetplusplusbaselines).
 
 
@@ -22,3 +32,8 @@ Beware of the "hard" paths I left in the first two scripts.
 
 
 ## Benchmarking Models:
+
+
+## Citation
+
+If you find this code useful in your research, then please cite:
