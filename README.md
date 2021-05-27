@@ -6,7 +6,7 @@ PyTorch implementation of Asymmetrical Bi-RNNs to encode pedestrian trajectories
 Contrary to many previous studies which proposed new interactions modules but did not deepen the importance of a robust sequence encoder, our work solely
 rely on proposing a new sequence encoder that could be easily applicable on all models that use the encoder-decoder pipeline for pedestrian trajectory forecasting while taking advantage of the research on interactions.
 
-We propose an Asymmetrical Bi-RNNs architecture to replace regular LSTMs or Bi-LSTMs as a motion-encodoing baseline for pedestrian trajectories forecasting:
+We propose an Asymmetrical Bi-RNNs architecture to replace regular LSTMs or Bi-LSTMs as a motion-encoding baseline for pedestrian trajectories forecasting:
 
 ![Asymmetrical Bi-RNNs architecture](https://github.com/JosephGesnouin/Asymmetrical-Bi-RNNs-to-encode-pedestrian-trajectories/blob/main/u-rnn.png)
 
@@ -27,7 +27,8 @@ If you want to replicate our results, follow the [guidelines from the Trajnet++ 
 
 `python -m trajnetbaselines.rnns.trainer --arch [name of architecture] [USUAL ARGUMENTS]`
 
-the possible names are those of the files in the `trajnetbaselines/rnns/` folder, typically `u_lstm`)
+The possible names are those of the files in the `trajnetbaselines/rnns/` folder, typically `u_lstm`).
+All the architectures listed in the paper are available: Bi-RNNs, RNNs, U-RNNs (Asymmetrical ours), Reversed U-RNNs.
 
 
 ## Miscellaneous (not necessarily useful but just in case)
@@ -36,11 +37,11 @@ the possible names are those of the files in the `trajnetbaselines/rnns/` folder
 -- `average` : to average several existing predictions
 
 
-Beware of the "hard" paths I left in the first two scripts.
+Beware of the "hard" paths we left in the two scripts.
 
 
 ## Benchmarking Models:
-
+The challenge is hosted on [AIcrowds](https://www.aicrowd.com/challenges/trajnet-a-trajectory-forecasting-challenge), please follow the [guidelines](https://thedebugger811.github.io/posts/2021/04/milestone_1/) to create a submission
 
 ## Citation
 
