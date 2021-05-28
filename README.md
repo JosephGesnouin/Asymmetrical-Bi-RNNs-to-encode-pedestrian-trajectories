@@ -1,6 +1,8 @@
 # Asymmetrical Bi-RNNs to encode pedestrian trajectories
 PyTorch implementation of Asymmetrical Bi-RNNs to encode pedestrian trajectories on the Trajnet++ dataset
 
+2nd place solution of the Trajnet++ Challenge during the Long-term Human Motion Prediction Workshop, IEEE International Conference on Robotics and Automation (ICRA 2021)
+
 
 ## Idea developped in the paper:
 Contrary to many previous studies which proposed new interactions modules but did not deepen the importance of a robust sequence encoder, our work solely
