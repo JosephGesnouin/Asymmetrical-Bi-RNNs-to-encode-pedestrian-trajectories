@@ -49,4 +49,19 @@ The challenge is hosted on [AIcrowds](https://www.aicrowd.com/challenges/trajnet
 
 ## Citation
 
-If you find this code useful in your research, then please cite:
+If you find this code useful in your research, please consider citing:
+
+```bash
+@inproceedings{rozenberg:hal-03244860,
+  TITLE = {{Asymmetrical Bi-RNNs (U-RNNs), 2nd place solution at the Trajnet++ Challenge for pedestrian trajectory forecasting}},
+  AUTHOR = {Rozenberg, Rapha{\"e}l and Gesnouin, Joseph and Moutarde, Fabien},
+  URL = {https://hal-mines-paristech.archives-ouvertes.fr/hal-03244860},
+  BOOKTITLE = {{Workshop on Long-term Human Motion Prediction, 2021 IEEE International Conference on Robotics and Automation (ICRA)}},
+  ADDRESS = {Xi'an, China},
+  YEAR = {2021},
+  MONTH = May,
+  HAL_ID = {hal-03244860},
+  HAL_VERSION = {v1},
+}
+  ```
+
