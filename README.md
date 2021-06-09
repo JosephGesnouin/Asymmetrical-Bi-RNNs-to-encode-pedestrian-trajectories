@@ -63,5 +63,22 @@ If you find this code useful in your research, please consider citing:
   HAL_ID = {hal-03244860},
   HAL_VERSION = {v1},
 }
+
+@ARTICLE{2021arXiv210604419R,
+       author = {{Rozenberg}, Rapha{\"e}l and {Gesnouin}, Joseph and {Moutarde}, Fabien},
+        title = "{Asymmetrical Bi-RNN for pedestrian trajectory encoding}",
+      journal = {arXiv e-prints},
+     keywords = {Computer Science - Computer Vision and Pattern Recognition, Computer Science - Artificial Intelligence},
+         year = 2021,
+        month = jun,
+          eid = {arXiv:2106.04419},
+        pages = {arXiv:2106.04419},
+archivePrefix = {arXiv},
+       eprint = {2106.04419},
+ primaryClass = {cs.CV},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2021arXiv210604419R},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
   ```
 
