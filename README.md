@@ -4,6 +4,8 @@ PyTorch implementation of Asymmetrical Bi-RNNs to encode pedestrian trajectories
 2nd place solution of the Trajnet++ Challenge during the Long-term Human Motion Prediction Workshop, IEEE International Conference on Robotics and Automation (ICRA 2021)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/asymmetrical-bi-rnn-for-pedestrian-trajectory/trajectory-prediction-on-trajnet)](https://paperswithcode.com/sota/trajectory-prediction-on-trajnet?p=asymmetrical-bi-rnn-for-pedestrian-trajectory)
 
+3rd place solution of the Trajnet++ Challenge during the Multi-Agent Interaction and Relational Reasoning Workshop, IEEE International Conference on Computer Vision (ICCV 2021)
+
 
 ## Idea developped in the paper:
 Contrary to many previous studies which proposed new interactions modules but did not deepen the importance of a robust sequence encoder, our work solely
